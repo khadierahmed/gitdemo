@@ -1,4 +1,5 @@
 # gitdemo
 this is my first repo
 <br>
-author = khadier ahmed
+author = khadier(khan)
+
